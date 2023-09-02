@@ -1,1 +1,1 @@
-print("alguma coisa ai")
+print("alguma coisa ai, tá muito bugado")
